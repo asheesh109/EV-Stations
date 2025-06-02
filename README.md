@@ -41,12 +41,5 @@
 
 ---
 
-## 📦 Summary of Deliverables
 
-- Node.js/Express.js  
-- Render  
-- Mongodb/Mongodb Atlas  
-
-
----
 
